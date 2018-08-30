@@ -1,1 +1,6 @@
 @import '../../sass/abstracts/_variables.scss';
+
+.gallery {
+    background-color: $color-grey-dark-1;
+    grid-column: full-start / full-end;
+}

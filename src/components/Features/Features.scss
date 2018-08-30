@@ -1,1 +1,6 @@
 @import '../../sass/abstracts/_variables.scss';
+
+.features {
+    background-color: $color-grey-light-2;
+    grid-column: center-start / center-end;
+}
